@@ -1,0 +1,9 @@
+*.pyc
+*.jpg
+\#*
+pathhistory
+anahistory
+build/
+venv/
+.DS_Store
+colorconvertc.so
